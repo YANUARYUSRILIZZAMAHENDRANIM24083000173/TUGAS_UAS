@@ -6,7 +6,7 @@ package AC;
 
 /**
  *
- * @author sanda
+ * @author zhazha
  */
 public interface AC {
     void matikanAC();

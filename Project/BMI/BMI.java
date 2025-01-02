@@ -6,7 +6,7 @@ package BMI;
 
 /**
  *
- * @author zhazha
+ * @author ZhaZha
  */
 public class BMI {
     // Atribut yang saya gunakan adalah double karena nanti hasilnya bilangan desimal 

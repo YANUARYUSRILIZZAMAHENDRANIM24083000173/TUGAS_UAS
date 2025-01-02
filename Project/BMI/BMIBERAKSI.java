@@ -6,7 +6,7 @@ package BMI;
 
 /**
  *
- * @author zhazha
+ * @author ZhaZha
  */
 public class BMIBERAKSI {
         public static void main(String[] args) {

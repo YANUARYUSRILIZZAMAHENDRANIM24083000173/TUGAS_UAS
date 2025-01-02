@@ -6,7 +6,7 @@ package AC;
 
 /**
  *
- * @author zhazha
+ * @author ZhaZha
  */
 public class ACBeraksi implements AC {
     private boolean statusAC = false;

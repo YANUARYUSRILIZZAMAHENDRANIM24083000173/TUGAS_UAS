@@ -6,7 +6,7 @@ package Hallo;
 
 /**
  *
- * @author sanda
+ * @author ZhaZha
  */
 public class Halloindonesia {
 

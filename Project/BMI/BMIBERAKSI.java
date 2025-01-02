@@ -11,7 +11,7 @@ package BMI;
 public class BMIBERAKSI {
         public static void main(String[] args) {
         // tinggi dan berat
-        BMI bmi = new BMI(168, 68);
+        BMI bmi = new BMI(162, 69);
         
         // Menghitung dan menampilkan hasil BMI
         double result = bmi.calculateBMI();
